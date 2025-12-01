@@ -103,6 +103,7 @@ Sou um desenvolvedor especializado na criação de interfaces intuitivas, respon
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true" alt="Estatísticas do GitHub" />
+  
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" alt="Linguagens mais usadas" />
 </p>
 
